@@ -1,0 +1,8 @@
+{
+  "name": "Vaibhav Kumar - Portfolio",
+  "description": "Personal portfolio website of Vaibhav Kumar, showcasing frontend development projects, skills, and services.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
