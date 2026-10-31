@@ -1,8 +1,43 @@
-# React + Vite
+# Vaibhav Kumar – Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive personal portfolio built to showcase my frontend development skills, projects, professional experience, education, and certifications.
 
-Currently, two official plugins are available:
+## Live Portfolio
+https://devmentor-ai-learning.ai.studio/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- React.js
+- JavaScript (ES6+)
+- Tailwind CSS
+- HTML5
+- CSS3
+- Vite
+
+## Features
+- Responsive design for mobile, tablet, and desktop
+- Dark and light themes
+- Projects with live demos and source-code links
+- Work experience and education sections
+- Dynamic resume download
+- Certificate gallery with document previews and verification links
+- Contact form
+
+## Run Locally
+
+```bash
+npm install
+npm run dev
+```
+
+## Production Build
+
+```bash
+npm run build
+```
+
+## Author
+Vaibhav Kumar
+
+GitHub: https://github.com/vaibhavkr87
+
+LinkedIn: https://www.linkedin.com/in/vaibhavkr03/
